@@ -148,5 +148,5 @@ Voir les routes :
 & 'C:\wamp64\bin\php\php8.2.29\php.exe' artisan route:list
 ```
 
-email : admin@scolarite.test
-mot de passe : password
+amensontoulass@gmail.com pour contribuer au projet et son amélioration
+merci bcp
